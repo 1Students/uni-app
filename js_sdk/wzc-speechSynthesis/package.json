@@ -1,0 +1,10 @@
+{
+    "id": "wzc-speechSynthesis",
+    "name": "语音合成",
+    "version": "1.0.0",
+    "description": "APP端语音合成",
+    "keywords": [
+        "语音合成",
+        "语音播报"
+    ]
+}
